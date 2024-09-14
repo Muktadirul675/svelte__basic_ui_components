@@ -1,0 +1,1 @@
+<div class="bg-gray-300 w-full h-px rounded my-1"></div>
